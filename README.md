@@ -1,5 +1,6 @@
 # Toads-and-Frogs
 A simple logic game where the objective is to get toads and frogs on opposite sides of a 1-by-N board.
+
 ## Rules:
 Toads and Frogs is a one-player game. Given a board of size N (where N is odd), the left side of the board is filled with toads and the right side is with frogs and the middle square is empty. Here is the initial board configuration for N=7:
 
