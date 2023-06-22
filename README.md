@@ -7,6 +7,7 @@ Toads and Frogs is a one-player game. Given a board of size N (where N is odd), 
 ![image](https://github.com/advious/Toads-and-Frogs/assets/122961412/5aca1162-df06-4173-8f5c-35d9a4ce0938)
 
 A toad can slide right or jump over one square to the right.
+
 **__Slide:__**
 
 ![image](https://github.com/advious/Toads-and-Frogs/assets/122961412/e0b5be4a-8261-458a-8108-d7a2a359d416)
