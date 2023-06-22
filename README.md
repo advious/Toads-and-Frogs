@@ -30,3 +30,5 @@ The objective of the game is to move the toads to the right side and the frogs t
   + 6 moves the frog from position 6 to position 4 -- TTT-FFF => TTTFF-F
 - Continue asking the player to move if the provided move is not valid. Otherwise, make the move.
 - The game finishes whenever all frogs are on the left side and all toads are on the right side and the empty square is in the middle.
+
+### Demo the game by downloading `ToadsAndFrogs.java`.
